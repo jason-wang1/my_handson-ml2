@@ -20,3 +20,8 @@
     - 评估指标（准确率、混淆矩阵、精确率、召回率、F1score、分类阈值、ROC、AUC）
     - 多分类模型预测0~9：SVM、SGDClassifier
     - 混淆矩阵进行误差分析并改进模型
+
+- [06_decision_trees.ipynb](https://github.com/jason-wang1/my_handson-ml2/blob/master/06_decision_trees.ipynb)
+    - 训练决策树模型对鸢尾花数据集进行分类
+    - 分类：样本可视化、模型可视化、CART算法、正则化方法、不稳定性
+    - 回归：样本可视化、模型可视化、与分类的差异
