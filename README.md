@@ -25,3 +25,8 @@
     - 训练决策树模型对鸢尾花数据集进行分类
     - 分类：样本可视化、模型可视化、CART算法、正则化方法、不稳定性
     - 回归：样本可视化、模型可视化、与分类的差异
+
+- [07_ensemble_learning_and_random_forests.ipynb](https://github.com/jason-wang1/my_handson-ml2/blob/master/07_ensemble_learning_and_random_forests.ipynb)
+    - 投票分类器（软投票、硬投票）
+    - bagging与pasting，包外评估，随机森林
+    - boosting：AdaBoost；梯度提升，GBDT，确定子树的数量，XGBoost
