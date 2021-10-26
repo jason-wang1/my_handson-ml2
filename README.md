@@ -30,3 +30,12 @@
     - 投票分类器（软投票、硬投票）
     - bagging与pasting，包外评估，随机森林
     - boosting：AdaBoost；梯度提升，GBDT，确定子树的数量，XGBoost
+
+- [10_neural_nets_with_keras.ipynb](https://github.com/jason-wang1/my_handson-ml2/blob/master/10_neural_nets_with_keras.ipynb)
+    - 使用顺序API构建图像分类MLP
+    - 使用顺序API构建回归MLP
+    - 使用函数式API构建复杂神经网络
+    - 使用子类API构建动态MLP
+    - 保存、还原模型，保存检查点
+    - 使用TensorBoard进行可视化
+    - 交叉验证选择超参数
